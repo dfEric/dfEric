@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 <div align=center>
 
-<img alt="eric" src="" width=100 />
+<img alt="eric" src="https://dferic-blog.oss-cn-shanghai.aliyuncs.com/img/WechatIMG187.jpeg" width=100 />
 
 # Hi there 👋, this is Eric 🤔
 
